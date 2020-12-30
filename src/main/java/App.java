@@ -24,7 +24,7 @@ public class App {
       paperCompanyExceptions();
 
     }
-    //testing initial commit directly from git
+    //testing initial commit directly from inTelliJ
     public static void paperCompanyExceptions() {
         PaperCompany dunderMifflin = new PaperCompany();
         dunderMifflin.receiveShipments();
