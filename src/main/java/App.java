@@ -24,6 +24,7 @@ public class App {
       paperCompanyExceptions();
 
     }
+    //testing initial commit directly from git
     public static void paperCompanyExceptions() {
         PaperCompany dunderMifflin = new PaperCompany();
         dunderMifflin.receiveShipments();
